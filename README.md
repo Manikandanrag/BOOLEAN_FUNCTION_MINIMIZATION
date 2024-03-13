@@ -70,8 +70,6 @@ RegisterNumber:212223230120
 
 ![image](https://github.com/Manikandanrag/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849491/e2d4c193-b11c-408e-849b-ab77766ed2e0)
 
-**Timing Diagram**
-
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
